@@ -1,0 +1,20 @@
+/* uncomment this and refresh the browsr to see the difference */
+
+.container {
+    /* display: relative; */
+    background-color: #bfbfbf;
+    height: 500px;
+    width: 100vw;
+}
+
+.the-content {
+    background-color: #9a9696;
+    height: 500px;
+    width: 500px;
+    padding: 100px;
+    border: 50px yellowgreen solid;
+    /* box-sizing: border-box; this is intermezo out of materi  */
+    box-sizing: border-box;
+    /* this relative display related */
+    float: left;
+}
